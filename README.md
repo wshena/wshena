@@ -6,7 +6,7 @@ Perkenalkan nama saya **Wisnu Shena Arrafi**.<br>
 Saya seorang **Mahasiswa** di [Universitas Negeri Surabaya](https://www.unesa.ac.id/).<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/wisnu-shena-arrafi-866226251)ku ya.
 
-- 🌱 I’m currently learning ReactJS, Nextjs, and Laraver.
+- 🌱 I’m currently learning ReactJS, Nextjs, and Laravel.
 <!--
 **wshena/wshena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
