@@ -9,9 +9,6 @@ If you interested in my, don't be shy to follow me at my [Linkedin](www.linkedin
 - 📫 How to reach me:
   - You can contact me via email at wshenaarrafi@gmail.com
   - You can contact me via Linkedin at my [Linkedin](www.linkedin.com/in/wisnu-shena-arrafi-866226251)
-- 👯 Here are some of my projects:
-  - [People Care Hospital](https://people-care-hospital-company-profile-website.vercel.app/)
-  - [Space Tourism](https://space-tourism-website-henna.vercel.app/)
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
